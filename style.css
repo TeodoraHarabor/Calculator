@@ -11,10 +11,16 @@
 body {
   margin: 0;
   padding: 0;
-  background: #068d40;
+  background: #018d3e;
 }
 
 .calculator-grid {
+  border-left: solid 480px white;
+  border-right: solid 480px white;
+  border-top: solid 20px white;
+  border-bottom: solid 20px white;
+  padding: 3rem;
+  border-radius: 350px;
   display: grid;
   justify-content: center;
   align-items: center;
